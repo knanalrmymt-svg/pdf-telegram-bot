@@ -1,3 +1,4 @@
 pyTelegramBotAPI
 Flask
 gunicorn
+Pillow
